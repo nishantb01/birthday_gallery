@@ -1,27 +1,33 @@
-# birthday_gallery
-Interactive birthday celebration website with a rotating image carousel animation and smooth CSS visual effects.
-Birthday Celebration Website 🎉
+# 🎂 Happy Birthday Mini Website 🎉  
 
-This project is an interactive birthday-themed website designed to create a visually engaging celebration page. The website features a rotating image carousel animation along with smooth CSS transitions to enhance the overall user experience.
+A beautiful, interactive mini website I built to celebrate my girlfriend’s special day ❤️.  
+This project is made with **HTML, CSS, and JavaScript** and includes animations, surprises, and heartfelt wishes.  
 
-Features
+✨ Anyone can use this project to create a unique online birthday greeting for their loved one!  
 
-🎠 Rotating image carousel animation
+---
 
-✨ Smooth CSS animations and transitions
+## 🚀 Live Demo  
+👉 [Click here to view the site](https://nikitayadav19.github.io/HappyBirthdayGF)  
 
-📱 Responsive design for different screen sizes
+---
 
-🎨 Simple and aesthetic UI for celebration pages
 
-Tech Stack
+## 🎁 Features   
+- 💌 Heartfelt birthday message with typewriter effect  
+- 🌟 Responsive design (works on phone & desktop)  
+- ✨ Easy to customize for anyone  
 
-HTML5
+---
 
-CSS3
+## 🛠️ Tech Stack  
+- **HTML5**  
+- **CSS3** (with animations)  
+- **JavaScript**  
 
-JavaScript
+---
 
-Live Demo
-
-🔗 https://bday1-project.netlify.app/
+## 🎉 How to Use  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/nikitayadav19/HappyBirthdayGF.git
